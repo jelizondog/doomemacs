@@ -1,0 +1,27 @@
+
+
+::::::::   :::    :::  ::::::::::  ::::    :::      :::       ::::::::
+:+:    :+:  :+:    :+:  :+:         :+:+:   :+:    :+: :+:    :+:    :+:
++:+    +:+  +:+    +:+  +:+         :+:+:+  +:+   +:+   +:+   +:+
++#++:++#+   +#+    +:+  +#++:++#    +#+ +:+ +#+  +#++:++#++:  +#++:++#++
++#+    +#+  +#+    +#+  +#+         +#+  +#+#+#  +#+     +#+         +#+
+#+#    #+#  #+#    #+#  #+#         #+#   #+#+#  #+#     #+#  #+#    #+#
+#########    ########   ##########  ###    ####  ###     ###   ########
+
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+
+
+ + [[file:~/txt/][TEXTOS]]
+
+ + [[elisp:org-agenda][AGENDA]]  SPC o A
+
+ + [[elisp:org-journal-new-entry][DIARIO]] SPC n j j
+
+ + [[file:~/notasinterpreting.org][nota]]
+
+
+//////PENDIENTES (opciones en C-c C-t)
+
+* TODO cancelar vix luego de ver PS
+* TODO rss :doom:
+* TODO  The jesuit guide to (almost) everything... James Martin

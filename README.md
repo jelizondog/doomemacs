@@ -1,1 +1,2 @@
 # doomemacs
+doomemacs de jeg
